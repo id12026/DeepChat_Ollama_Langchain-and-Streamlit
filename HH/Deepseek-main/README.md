@@ -35,12 +35,6 @@ This project is a personalized **AI chatbot** built using **DeepSeek**, **LangCh
 - **DeepSeek** (via Ollama API) analyzes the user's emotional state based on the input message.
 - Based on the emotional state and the topic (motivation, productivity, career advice), the system understands the user's need and context.
 
-### 4. **Response Generation**
-
-- **DeepSeek** generates a personalized, context-aware response.
-  - If the user needs motivation: *"You're doing great! Break your goals into smaller tasks and celebrate each small victory!"*
-  - If the user asks for productivity tips: *"Try the Pomodoro technique! Focus on tasks for 25 minutes, followed by a 5-minute break."*
-  - If the user seeks career advice: *"To grow professionally, focus on improving communication skills and learning new technologies."*
 
 ### 5. **Response Presentation**
 
